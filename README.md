@@ -1,16 +1,23 @@
-## Hi there 👋
+# **subrunner**
 
-<!--
-**louisaiva/louisaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**subrunner** is a 2D Top-Down Action/Maze Game made in C# with Unity.
+
+It is still in early development, but you can check out the different repositories related to the game below:
+
+- [**subrunner game**](https://github.com/louisaiva/subrunner) - *the main C# game repository*
+- [**subrunner gamedesign**](https://github.com/louisaiva/subrunner-gamedesign) - *[obsidian](https://obsidian.md/) vault to help design the game*
+
+---
+
+# **other projects**
+
+Below are some other projects I have worked on. Most of them are **OLD** and **DEPRECATED**, but you can still check them out if you want!
+
+- [**gaucho fléchés**](https://github.com/louisaiva/gaucho-fleches) - *a simple software to create crossword puzzles*
+- [**arrow-counter**](https://github.com/louisaiva/arrow-counter) - *a simple arrow counter mod for the [hytale game](https://hytale.com/)*
+- [**sandracer**](https://github.com/louisaiva/sandracer) - *a simple simulation test for creating a levitating pod like [this](https://www.google.com/search?udm=2&q=star+wars+pod)*
+- [**plumegang**](https://github.com/louisaiva/plumegang) - *an old 2D game made in python with [pyglet](https://pyglet.org/)*
+- [**delta2D**](https://github.com/louisaiva/delta2d) - *an old 2D top-down minecraft-like game made with python & pyglet combo*
+- [**SPACEDESTROYER**](https://github.com/louisaiva/SPACEDESTROYER) - *3D space shooter game made in python with OpenGL*
