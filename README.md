@@ -25,7 +25,7 @@ Do not hesitate to open issues or contact me via [**deltasfer@gmail.com**](mailt
 
 Below are some other projects I have worked on. Most of them are **OLD** and **DEPRECATED**, but you can still check them out if you want!
 
-- [**ULTRA CONSUMERISM SIMULATOR**]([https://github.com/louisaiva/gaucho-fleches](https://github.com/louisaiva/ultracapitalism_simulator)) - *Absurd incremental game made during a 72h game jam : [11th solo dev jam](https://itch.io/jam/solo-dev-jam-11). You can download the game inside the releases section, or on the [itch.io page](https://nomaj.itch.io/)*
+- [**ULTRA CONSUMERISM SIMULATOR**](https://github.com/louisaiva/ultracapitalism_simulator) - *Absurd incremental game made during a 72h game jam : [11th solo dev jam](https://itch.io/jam/solo-dev-jam-11). You can download the game inside the releases section, or on the [itch.io page](https://nomaj.itch.io/)*
 - [**gaucho fléchés**](https://github.com/louisaiva/gaucho-fleches) - *a simple software to create crossword puzzles*
 - [**arrow-counter**](https://github.com/louisaiva/arrow-counter) - *a simple arrow counter mod for the [hytale game](https://hytale.com/)*
 - [**sandracer**](https://github.com/louisaiva/sandracer) - *a simple simulation test for creating a levitating pod like [this](https://www.google.com/search?udm=2&q=star+wars+pod)*
