@@ -1,6 +1,6 @@
-# Welcome to my github page !
+# Welcome to nomaj's github :)
 
-You can check the several projects I have worked on below.
+Below are listed the projects I work / have worked on.
 
 Please also check my [itch.io page](https://nomaj.itch.io/) where I post my free games !
 
